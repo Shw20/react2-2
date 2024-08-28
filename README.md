@@ -1,6 +1,6 @@
 # 202230313 신희원
-### 8월 28일
 ---
+### 8월 28일
 #### Pages Router vs. App Router
 * React로 개발하다 처음 Next를 사용하면 Router를 볼 수 있음
 * Next.js는 App Router가 Stable하게 지원하기 시작
